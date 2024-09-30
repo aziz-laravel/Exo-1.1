@@ -1,0 +1,1 @@
+Pour cet exercice, l'utilisateur aura le droit de remplir les champs nécessaires afin qu'on puisse calculer les impôts, que ce soit de base, supplémentaire ou totale. Nous avons défini la logique du calcul dans le fichier **FirstActivity.java**.
