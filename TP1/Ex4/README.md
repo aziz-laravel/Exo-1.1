@@ -1,0 +1,1 @@
+Pour le travail à rendre, le principe est similaire à celui de l'exercice 3. Au lieu de suggérer des réponses à l'utilisateur, on lui donne des **EditText** pour qu'il puisse remplir les données nécessaires. Après avoir cliqué sur "Envoyer" dans **FirstActivity**, on navigue vers **SecondActivity** qui affichera les informations saisies par l'utilisateur.
