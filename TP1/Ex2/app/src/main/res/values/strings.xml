@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ex 2</string>
+    <string name="text1">HabitationAndroid</string>
+    <string name="text2">Calcul des impôts locaux</string>
+    <string name="nom">Nom</string>
+    <string name="edit1">Votre nom</string>
+    <string name="adresse">Adresse</string>
+    <string name="edit2">Votre adresse</string>
+    <string name="surface">Surface</string>
+    <string name="edit3">Saisissez la surface</string>
+    <string name="nombre">Nombre de pièces</string>
+    <string name="edit4">Saisissez le nombre</string>
+    <string name="checkbox">Piscine</string>
+    <string name="button">Calcul</string>
+    <string name="text3">Impôt de base : </string>
+    <string name="text4">Impôt supplémentaire : </string>
+    <string name="text5">Impôt total : </string>
+</resources>

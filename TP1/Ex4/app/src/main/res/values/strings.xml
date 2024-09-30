@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ex 4</string>
+    <string name="nom">Nom et Prénom </string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="adresse">Adresse</string>
+    <string name="edit1">Votre Nom et Prénom</string>
+    <string name="edit2">Votre email</string>
+    <string name="edit3">Saisissez votre GSM</string>
+    <string name="edit4">Entrez votre adresse</string>
+    <string name="button1">Envoyer</string>
+    <string name="button2">Retour</string>
+    <string name="ville">Ville : </string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Casa</item>
+        <item>El Jadida</item>
+        <item>Agadir</item>
+    </array>
+    <string name="text1">Nom et Prénom: </string>
+    <string name="text2">Email : </string>
+    <string name="text3">Téléphone : </string>
+    <string name="text4">Adresse : </string>
+    <string name="text5">Ville : </string>
+</resources>
